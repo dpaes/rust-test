@@ -22,7 +22,6 @@
       "serayuzgur.crates"
       "vadimcn.vscode-lldb"
       "pkief.material-icon-theme"
-      "dekirisu.dekirisu-rust-themes"
       "codeium.codeium"
       "ms-ceintl.vscode-language-pack-pt-br"
     ];
